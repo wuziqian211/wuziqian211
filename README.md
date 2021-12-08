@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a well-known person who loves to interact with my fans in BiliBili (a well-known video platform) in China.
 
-![githubstars](https://github-readme-stats.vercel.app/api?username=wuziqian211)
+![githubstars](https://github-readme-stats.vercel.app/api?username=wuziqian211&count_private=true&show_icons=true)
 
 <!--
 **wuziqian211/wuziqian211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
