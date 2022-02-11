@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a well-known person who loves to interact with my fans in BiliBili (a well-known video platform in China).<br />
-If you want to know more about me, you can visit <https://wuziqian211.top/wiki/> (Chinese). But the content of this wiki is too long.<br />
+If you want to know more about me, you can visit <https://wuziqian211.top/about/> (Chinese).<br />
 You can follow me at BiliBili: <https://space.bilibili.com/425503913>.<br />
 You can also follow me on Twitter: <https://twitter.com/wuziqian211>.
 
