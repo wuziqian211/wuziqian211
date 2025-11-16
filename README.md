@@ -13,7 +13,7 @@ Welcome to my little corner on GitHub! I’m a student and a passionate programm
 ## ✨ Names I Go By
 
 - **YumeHaru** — my main name (from the Japanese pronunciation of “梦春”).
-- Also known as **梦春酱**, **酱酱**, **小梦**, or **wuziqian211** on various platforms.
+- Also known as **晨叶梦春**, **梦春酱**, or **wuziqian211** on various platforms.
 
 ## 🛠️ Tech & Skills
 
