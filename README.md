@@ -29,15 +29,18 @@ Welcome to my little corner on GitHub! I’m a student and a passionate programm
 Other interests include ACGN, Minecraft, math, chemistry, English, scripting, and making videos.
 
 <div align="center">
-
-<!-- Light Mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=wuziqian211&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_radius=20&theme=default#gh-light-mode-only" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuziqian211&layout=compact&border_radius=20&theme=default#gh-light-mode-only" height="170" />
-
-<!-- Dark Mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=wuziqian211&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_radius=20&theme=tokyonight#gh-dark-mode-only" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuziqian211&layout=compact&border_radius=20&theme=tokyonight#gh-dark-mode-only" height="170" />
-
+  <!-- Main stats -->
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wuziqian211&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_radius=20&theme=default" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wuziqian211&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_radius=20&theme=tokyonight" height="170">
+    <img src="https://github-readme-stats.vercel.app/api?username=wuziqian211&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_radius=20&theme=default" height="170">
+  </picture>
+  <!-- Top languages -->
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wuziqian211&layout=compact&border_radius=20&theme=default" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wuziqian211&layout=compact&border_radius=20&theme=tokyonight" height="170">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuziqian211&layout=compact&border_radius=20&theme=default" height="170">
+  </picture>
 </div>
 
 ## 📺 Content & Open Source
