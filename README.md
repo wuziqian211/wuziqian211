@@ -18,13 +18,14 @@ Welcome to my little corner on GitHub! I’m a student and a passionate programm
 ## 🛠️ Tech & Skills
 
 ### Languages & Tools
-<p>
+<div align="center">
   <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=nodejs,github,vercel,python,html,css,javascript,typescript,markdown" />
-  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,github,vercel,python,html,css,javascript,typescript,markdown">
+</div>
+<div align="center">
   <!-- OS & Editors -->
-  <img src="https://skillicons.dev/icons?i=windows,linux,vscode" />
-</p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,vscode">
+</div>
 
 Other interests include ACGN, Minecraft, math, chemistry, English, scripting, and making videos.
 
