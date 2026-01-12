@@ -31,15 +31,15 @@ Other interests include ACGN, Minecraft, math, chemistry, English, scripting, an
 <div align="center">
   <!-- Main stats -->
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api?username=wuziqian211&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true&border_radius=20&theme=default" height="200">
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-fast.vercel.app/api?username=wuziqian211&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true&border_radius=20&theme=tokyonight" height="200">
-    <img src="https://readme-stats-fast.vercel.app/api?username=wuziqian211&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true&border_radius=20&theme=default" height="200">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api?username=wuziqian211&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&include_all_commits=true&count_private=true&border_radius=20&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-fast.vercel.app/api?username=wuziqian211&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&include_all_commits=true&count_private=true&border_radius=20&theme=tokyonight">
+    <img src="https://readme-stats-fast.vercel.app/api?username=wuziqian211&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&include_all_commits=true&count_private=true&border_radius=20&theme=default">
   </picture>
   <!-- Top languages -->
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api/top-langs/?username=wuziqian211&layout=cpmpact&border_radius=20&theme=default" height="200">
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-fast.vercel.app/api/top-langs/?username=wuziqian211&layout=compact&border_radius=20&theme=tokyonight" height="200">
-    <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=wuziqian211&layout=compact&border_radius=20&theme=default" height="200">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api/top-langs/?username=wuziqian211&langs_count=6&border_radius=20&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-fast.vercel.app/api/top-langs/?username=wuziqian211&langs_count=6&border_radius=20&theme=tokyonight">
+    <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=wuziqian211&langs_count=6&border_radius=20&theme=default">
   </picture>
 </div>
 
