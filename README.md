@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m [YumeHaru](https://www.yumeharu.top/about/)
+# 👋 Hi there, I’m [YumeHaru](https://www.yumeharu.top/about-me/)
 
 > “Not for the best — just for the better.”
 
@@ -55,7 +55,7 @@ Other interests include ACGN, Minecraft, math, chemistry, English, scripting, an
 - **Bilibili**: [晨叶梦春](https://space.bilibili.com/425503913)
 - **GitHub**: [@wuziqian211](https://github.com/wuziqian211)
 - **Email**: wuziqian211 at 126 dot com
-- **Twitter / X**: [@wuziqian211](https://x.com/wuziqian211) (not very active)
+- **Twitter / X**: [@wuziqian211](https://x.com/wuziqian211)
 
 ![Visitors Count](https://count.getloli.com/get/@35661226335041d4ab7d6ee389ffbca0?theme=booru-touhoulat&scale=0.5)
 
