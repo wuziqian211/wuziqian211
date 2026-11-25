@@ -7,7 +7,7 @@ Welcome to my little corner on GitHub! I’m a student and a passionate programm
 ## 🌱 About Me
 
 - From **Wuhan, China**, cheerful, friendly, and always curious.
-- A high school senior who enjoys coding, learning new things, and meeting new friends.
+- A freshman who enjoys coding, learning new things, and meeting new friends.
 - My personality mixes humor with softness — sometimes playful, sometimes unexpectedly cute (＝・ω・＝).
 
 ## ✨ Names I Go By
@@ -52,6 +52,7 @@ Other interests include ACGN, Minecraft, math, chemistry, English, scripting, an
 
 ## 🌐 Connect with Me
 
+- **Website**: [Miorika](https://www.yumeharu.top/)
 - **Bilibili**: [晨叶梦春](https://space.bilibili.com/425503913)
 - **GitHub**: [@wuziqian211](https://github.com/wuziqian211)
 - **Email**: wuziqian211 at 126 dot com
